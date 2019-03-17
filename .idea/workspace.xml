@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0fcd098f-eff9-49fb-836d-97308c7ebb2e" name="Default Changelist" comment="" />
+    <list default="true" id="0fcd098f-eff9-49fb-836d-97308c7ebb2e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/PetEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Config.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/PetEndPoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/PetEndPoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/PetStoreTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/PetStoreTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Config.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Config.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/PetEndPoint.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/PetEndPoint.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/PetStoreTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/PetStoreTests.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,24 +30,24 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1068" />
-          <entry key="xml" value="10" />
+          <entry key="java" value="1560" />
+          <entry key="xml" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1068" />
-          <entry key="XML" value="10" />
+          <entry key="JAVA" value="1560" />
+          <entry key="XML" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="3" />
+          <entry key="java" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="3" />
+          <entry key="JAVA" value="4" />
         </counts>
       </usages-collector>
     </session>
@@ -47,8 +57,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="24" selection-start-line="24" selection-end-line="24" />
+            <state relative-caret-position="501">
+              <caret line="30" selection-start-line="30" selection-end-line="30" />
             </state>
           </provider>
         </entry>
@@ -56,8 +66,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/PetStoreTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="39" column="1" lean-forward="true" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
+            <state relative-caret-position="354">
+              <caret line="44" column="5" lean-forward="true" selection-start-line="44" selection-start-column="5" selection-end-line="44" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -65,8 +75,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/PetEndPoint.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="23" column="22" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="22" />
+            <state relative-caret-position="291">
+              <caret line="32" column="31" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -75,10 +85,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/PetEntity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="273">
+              <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/Config.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="2" column="113" selection-start-line="2" selection-start-column="113" selection-end-line="2" selection-end-column="113" />
+            <state relative-caret-position="105">
+              <caret line="5" column="51" selection-start-line="5" selection-start-column="51" selection-end-line="5" selection-end-column="51" />
             </state>
           </provider>
         </entry>
@@ -92,13 +111,17 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/test/java/PetEndPoint.java" />
         <option value="$PROJECT_DIR$/src/test/java/Config.java" />
+        <option value="$PROJECT_DIR$/src/test/java/PetEntity.java" />
         <option value="$PROJECT_DIR$/src/test/java/PetStoreTests.java" />
+        <option value="$PROJECT_DIR$/src/test/java/PetEndPoint.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -107,6 +130,7 @@
     <option name="width" value="1292" />
     <option name="height" value="732" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -150,7 +174,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552835506537" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552840885599" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -164,7 +188,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.PetStoreTests.getPetByStatus404">
+  <component name="RunManager" selected="TestNG.PetStoreTests.createPet">
     <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
       <module name="petstore-restassure" />
       <option name="VM_PARAMETERS" />
@@ -212,6 +236,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PetStoreTests.createPet" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="petstore-restassure" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PetStoreTests" />
+      <option name="METHOD_NAME" value="createPet" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PetStoreTests.getPetById200" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="petstore-restassure" />
       <option name="PACKAGE_NAME" value="" />
@@ -229,18 +265,6 @@
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="PetStoreTests" />
       <option name="METHOD_NAME" value="getPetByIr404" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PetStoreTests.getPetByStatus" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="petstore-restassure" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="PetStoreTests" />
-      <option name="METHOD_NAME" value="getPetByStatus" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -273,19 +297,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="TestNG.PetStoreTests.getPetById200" />
-      <item itemvalue="TestNG.PetStoreTests.getPetByIr404" />
-      <item itemvalue="TestNG.PetStoreTests.getPetByStatus" />
       <item itemvalue="TestNG.PetStoreTests.getPetByStatus404" />
       <item itemvalue="TestNG.PetStoreTests.getPetByStatus200" />
+      <item itemvalue="TestNG.PetStoreTests.createPet" />
+      <item itemvalue="TestNG.PetStoreTests.getPetById200" />
+      <item itemvalue="TestNG.PetStoreTests.getPetByIr404" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.PetStoreTests.getPetByStatus404" />
-        <item itemvalue="TestNG.PetStoreTests.getPetByStatus200" />
-        <item itemvalue="TestNG.PetStoreTests.getPetByStatus" />
+        <item itemvalue="TestNG.PetStoreTests.createPet" />
         <item itemvalue="TestNG.PetStoreTests.getPetByIr404" />
         <item itemvalue="TestNG.PetStoreTests.getPetById200" />
+        <item itemvalue="TestNG.PetStoreTests.getPetByStatus404" />
+        <item itemvalue="TestNG.PetStoreTests.getPetByStatus200" />
       </list>
     </recent_temporary>
   </component>
@@ -303,24 +327,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="PetStoreTests_getPetByStatus200 - 2019.03.17 at 17h 00m 20s.xml">
-      <configuration name="PetStoreTests.getPetByStatus200" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="PetStoreTests_getPetByStatus200 - 2019.03.17 at 17h 01m 03s.xml">
-      <configuration name="PetStoreTests.getPetByStatus200" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="PetStoreTests_getPetByStatus200 - 2019.03.17 at 17h 04m 19s.xml">
-      <configuration name="PetStoreTests.getPetByStatus200" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="PetStoreTests_getPetByStatus404 - 2019.03.17 at 17h 05m 08s.xml">
-      <configuration name="PetStoreTests.getPetByStatus404" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="PetStoreTests_getPetByStatus200 - 2019.03.17 at 17h 05m 14s.xml">
-      <configuration name="PetStoreTests.getPetByStatus200" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="PetStoreTests_getPetByStatus200 - 2019.03.17 at 17h 05m 44s.xml">
-      <configuration name="PetStoreTests.getPetByStatus200" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="PetStoreTests_getPetByStatus200 - 2019.03.17 at 17h 07m 22s.xml">
       <configuration name="PetStoreTests.getPetByStatus200" configurationId="TestNG" />
     </history-entry>
@@ -333,10 +339,36 @@
     <history-entry file="PetStoreTests_getPetByStatus404 - 2019.03.17 at 17h 09m 41s.xml">
       <configuration name="PetStoreTests.getPetByStatus404" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="PetStoreTests_createPet - 2019.03.17 at 17h 48m 32s.xml">
+      <configuration name="PetStoreTests.createPet" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="PetStoreTests_getPetById200 - 2019.03.17 at 17h 49m 38s.xml">
+      <configuration name="PetStoreTests.getPetById200" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="PetStoreTests_getPetByIr404 - 2019.03.17 at 17h 52m 13s.xml">
+      <configuration name="PetStoreTests.getPetByIr404" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="PetStoreTests_createPet - 2019.03.17 at 17h 55m 00s.xml">
+      <configuration name="PetStoreTests.createPet" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="PetStoreTests_createPet - 2019.03.17 at 18h 33m 21s.xml">
+      <configuration name="PetStoreTests.createPet" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="PetStoreTests_createPet - 2019.03.17 at 18h 36m 49s.xml">
+      <configuration name="PetStoreTests.createPet" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1064" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -346,7 +378,7 @@
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24973147" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32998884" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Messages" weight="0.32998884" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -355,7 +387,7 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32998884" />
       <window_info anchor="right" id="Palette" />
       <window_info anchor="right" id="Theme Preview" />
       <window_info anchor="right" id="Capture Analysis" />
@@ -370,34 +402,41 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/test/java/Config.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="105">
+          <caret line="5" column="51" selection-start-line="5" selection-start-column="51" selection-end-line="5" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/PetEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/PetEndPoint.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="23" column="22" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="22" />
+        <state relative-caret-position="291">
+          <caret line="32" column="31" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Config.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="113" selection-start-line="2" selection-start-column="113" selection-end-line="2" selection-end-column="113" />
+        <state relative-caret-position="501">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/PetStoreTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="39" column="1" lean-forward="true" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
+        <state relative-caret-position="354">
+          <caret line="44" column="5" lean-forward="true" selection-start-line="44" selection-start-column="5" selection-end-line="44" selection-end-column="5" />
         </state>
       </provider>
     </entry>

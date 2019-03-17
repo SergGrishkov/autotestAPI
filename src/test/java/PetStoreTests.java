@@ -8,7 +8,7 @@ public class PetStoreTests {
     @Test
     public void getPetById200(){
         PET_ENDPIONT
-                .getPerBuId(1)
+                .getPerBuId(100500)
                 .then().statusCode(200);
     }
 
@@ -28,13 +28,20 @@ public class PetStoreTests {
                 .statusCode(200);
     }
 
-    @Test
-    public void getPetByStatus404(){
-        PET_ENDPIONT
-                .getPetByStatus("lоавлd")
-                .then()
-                .statusCode(404);
-    }
+//    @Test
+//    public void getPetByStatus404(){
+//        PET_ENDPIONT
+//                .getPetByStatus("lоавлd")
+//                .then()
+//                .statusCode(404);
+//    }
 
+    @Test
+    public void createPet(){
+        PetEntity petEntity = new PetEntity(3333, "Tomas", "available");
+        PET_ENDPIONT
+                .createPet(petEntity)
+                .then().statusCode(200);
+    }
 
 }
